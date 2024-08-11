@@ -1,0 +1,233 @@
+acanthaluteres
+acanthistius
+acanthopagrus
+achoerodus
+acreichthys
+aesopia
+aethaloperca
+alectis
+alepes
+aluterus
+amanses
+anampses
+anodontostoma
+anyperodon
+aphareus
+aprion
+argyrops
+aseraggodes
+atractoscion
+atule
+auxis
+Bangus
+bathylagichthys
+beryx
+Big Head Carp
+Black Sea Sprat
+Black Spotted Barb
+bodianus
+bothus
+brachaluteres
+brachirus
+caesioperca
+cantherhines
+cantheschenia
+caprodon
+carangoides
+caranx
+carcharhinus
+Catfish
+centroberyx
+centrogenys
+centroscymnus
+cephalopholis
+chascanopsetta
+cheilinus
+cheilio
+cheilodactylus
+chelidonichthys
+chirocentrus
+choerodon
+chromileptes
+cirrhilabrus
+Climbing Perch
+coris
+crenimugil
+CUNWCB-Y
+cymbacephalus
+cymolutes
+cynoglossus
+cyttopsis
+dactylophora
+decapterus
+diproctacanthus
+dotalabrus
+elagatis
+epibulus
+epinephelus
+etelis
+eubalichthys
+eupetrichthys
+euthynnus
+evistias
+Fourfinger Threadfin
+Freshwater Eel
+gempylus
+Gilt-Head Bream
+Glass Perchlet
+gnathanodon
+gnathodentex
+Goby
+Gold Fish
+goldfish
+Gourami
+gracila
+Grass Carp
+Green Spotted Puffer
+gymnocranius
+gymnosarda
+halichoeres
+harriotta
+hemigymnus
+hemiramphus
+herklotsichthys
+hologymnosus
+Hourse Mackerel
+hyporhamphus
+Indian Carp
+Indo-Pacific Tarpon
+inegocia
+Istiophorus
+Jaguar Gapote
+Janitor Fish
+johnius
+katsuwonus
+Knifefish
+labrichthys
+labroides
+labropsis
+latridopsis
+lepidocybium
+leptojulis
+lethrinus
+liopropoma
+liza
+lniistius
+Long-Snouted Pipefish
+lutjanus
+macolor
+macropharyngodon
+megalaspis
+meuschenia
+monacanthus
+monotaxis
+Mosquito Fish
+Mudfish
+mugim
+Mullet
+naucrates
+negaprion
+nemadactylus
+nemipterus
+netuma
+nibea
+notolabrus
+notorynchus
+novaculichthys
+novaculoides
+oedalechilus
+ophthalmolepis
+otolithes
+oxycheilinus
+oxymonacanthus
+P1ROZC-Z
+pagrus
+Pangasius
+paracaesio
+paracheilinus
+paraluteres
+paramonacanthus
+paraplagusia
+parastromateus
+pardachirus
+pentapodus
+Perch
+pervagor
+pinjalo
+platycephalus
+plectranthias
+plectropomus
+plotosus
+PQV7DP-S
+pristipomoides
+promethichthys
+protonibea
+psettodes
+pseudalutarius
+pseudanthias
+pseudocaranx
+pseudocarcharias
+pseudocheilinus
+pseudodax
+pseudojuloides
+pseudolabrus
+pseudorhombus
+pteragogus
+rastrelliger
+Red Mullet
+Red Sea Bream
+retropinna
+rhabdosargus
+rhincodon
+rhizoprionodon
+ruvettus
+samaris
+samariscus
+sarda
+sardinella
+sardinops
+scaevius
+Scat Fish
+scolopsis
+scomberoides
+scomberomorus
+Sea Bass
+selar
+selaroides
+seriola
+seriolina
+serranocirrhitus
+Shrimp
+sillago
+Silver Barb
+Silver Carp
+Silver Perch
+Snakehead
+soleichthys
+sphyraena
+stegostoma
+stethojulis
+stolephorus
+Striped Red Mullet
+suezichthys
+symphorichthys
+symphorus
+Tenpounder
+thalassoma
+thryssa
+thunnus
+thysanophrys
+Tilapia
+trachichthys
+trachinotus
+trachypoma
+triaenodon
+Trout
+uraspis
+valamugil
+variola
+wattsia
+wetmorella
+xiphocheilus
+zenarchopterus
+zeus
