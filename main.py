@@ -73,7 +73,7 @@ def process_frame(frame):
         area = cv2.contourArea(cnt)
         if area > 500:
             x, y, w, h = cv2.boundingRect(cnt)
-            if h >= 110 and w >= 150:
+            if h >= 50 and w >= 100:
                 cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 3)
                 
                 roi = frame[y:y + h, x:x + w]
@@ -87,8 +87,8 @@ def process_frame(frame):
     processed_frames.append(frame)
     return processed_frames
 
-# Load video
-cap = cv2.VideoCapture("E://PROJECTS//FINAL YEAR PROJECT//Tracker//Fish.mp4")
+url = 'http://192.168.176.129:81/stream'
+cap = cv2.VideoCapture(url)
 
 object_detector = cv2.createBackgroundSubtractorMOG2(history=1000, varThreshold=35)
 
